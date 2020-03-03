@@ -10,3 +10,4 @@
 ## feature-branch 2 commit 3
 
 ## feature-branch 3 commit 1
+## feature-branch 3 commit 2
